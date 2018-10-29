@@ -42,9 +42,9 @@ games played.
 
 
 ## Team
-Pushkar Shukla
-Jitendra Sharma
-Hitesh Tripathi
-Shailesh Bisht
-Arun Panwar
-Meghna Goyal
+- Pushkar Shukla
+- Jitendra Sharma
+- Hitesh Tripathi
+- Shailesh Bisht
+- Arun Panwar
+- Meghna Goyal
